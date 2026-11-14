@@ -1,0 +1,82 @@
+OrderID,OrderDate,CustomerID,Region,Category,Product,Quantity,UnitPrice,Sales
+S0001,2025-11-24,C005,North,Technology,Laptop,5,238.69,1193.45
+S0002,2025-12-13,C003,South,Office Supplies,Notebook,7,37.94,265.58
+S0003,2025-04-30,C023,West,Office Supplies,Notebook,4,682.49,2729.96
+S0004,2025-04-23,C001,South,Furniture,Bookshelf,5,770.48,3852.4
+S0005,2025-12-24,C025,East,Furniture,Desk,5,154.46,772.3
+S0006,2025-02-22,C012,,Technology,Mouse,2,346.16,692.32
+S0007,2025-01-23,C013,North,Office Supplies,Stapler,2,924.68,1849.36
+S0008,2025-10-10,C023,North,Furniture,Bookshelf,6,551.87,3311.22
+S0009,2025-01-24,C008,North,Office Supplies,Pen Set,5,936.08,4680.4
+S0010,2025-07-14,C012,South,Furniture,Desk,6,161.22,967.32
+S0011,2025-12-10,C006,South,Furniture,Bookshelf,2,581.8,1163.6
+S0012,2025-03-25,C021,South,Furniture,Desk,5,940.13,4700.65
+S0013,2025-12-17,C011,West,Furniture,Office Chair,,782.14,3128.56
+S0014,2025-05-18,C016,West,Technology,Monitor,6,208.29,1249.74
+S0015,2025-11-26,C024,East,Furniture,Office Chair,5,139.53,697.65
+S0016,2025-10-27,C005,West,Furniture,Bookshelf,7,349.0,2443.0
+S0017,2025-02-16,C022,West,Technology,Laptop,3,599.05,1797.15
+S0018,2025-11-02,C015,East,Technology,Mouse,7,569.33,3985.31
+S0019,2025-10-11,C011,North,Technology,Laptop,5,732.02,3660.1
+S0020,2025-05-31,C024,East,Furniture,Office Chair,8,11.06,88.48
+S0021,2025-09-14,C017,South,Technology,Laptop,5,800.85,4004.25
+S0022,2025-03-20,C016,North,Furniture,Office Chair,1,unknown,572.21
+S0023,2025-02-27,C019,North,Furniture,Desk,4,62.57,250.28
+S0024,2025-02-13,C018,South,Office Supplies,Stapler,2,929.26,1858.52
+S0025,2025-03-07,C020,West,Office Supplies,Stapler,3,257.68,773.04
+S0026,2025-04-19,C022,East,Office Supplies,Pen Set,5,383.85,1919.25
+S0027,2025-08-13,C003,East,Office Supplies,Stapler,2,241.53,483.06
+S0028,2025-01-11,C023,North,Office Supplies,Pen Set,4,14.77,59.08
+S0029,2025-04-28,C008,East,Technology,Laptop,6,74.75,448.5
+S0030,2025-12-09,C019,West,Furniture,Office Chair,3,689.4,2068.2
+S0031,2025-05-05,C022,West,,Desk,4,96.85,387.4
+S0032,2025-07-01,C002,North,Furniture,Desk,8,821.73,6573.84
+S0033,2025-02-01,C004,South,Furniture,Bookshelf,6,762.16,4572.96
+S0034,2025-04-09,C009,West,Technology,Mouse,3,405.41,1216.23
+S0035,2025-05-08,C018,North,Technology,Mouse,2,55.65,111.3
+S0036,2025-02-17,C007,West,Technology,Monitor,7,465.47,3258.29
+S0037,2025-01-31,C009,West,Technology,Mouse,1,936.16,936.16
+S0038,2025-05-27,C010,South,Furniture,Bookshelf,8,153.82,1230.56
+S0039,2025-01-30,C019,West,Office Supplies,Notebook,6,61.85,371.1
+S0040,2025-09-15,C003,South,Office Supplies,Pen Set,1,913.05,913.05
+S0041,2025-02-05,C019,South,Office Supplies,Notebook,4,388.36,1553.44
+S0042,2025-10-24,C019,East,Office Supplies,Notebook,2,402.91,805.82
+S0043,2025-05-14,C005,East,Technology,Keyboard,4,258.21,1032.84
+S0044,2025-08-23,C019,North,Furniture,Office Chair,1,439.7,439.7
+S0045,2025-02-07,C012,North,Office Supplies,Pen Set,5,132.77,663.85
+S0046,2025-05-06,C018,East,Furniture,Desk,3,420.77,1262.31
+S0047,2025-11-10,C004,South,Office Supplies,Notebook,5,885.71,4428.55
+S0048,2025-05-16,C020,South,Technology,Laptop,3,264.55,793.65
+S0049,2025-06-25,C002,North,Technology,Keyboard,8,244.56,1956.48
+S0050,2025-11-21,C025,South,Furniture,Desk,1,11.34,11.34
+S0051,2025-11-23,C014,North,Furniture,Office Chair,8,527.68,4221.44
+S0052,2025-02-27,C019,South,Technology,Monitor,1,794.19,794.19
+S0053,2025-08-09,C002,East,Technology,Laptop,5,351.5,1757.5
+S0054,2025-04-18,C018,West,Office Supplies,Pen Set,2,341.17,682.34
+S0055,2025-11-14,C006,West,Office Supplies,Pen Set,4,822.46,3289.84
+S0056,2025-01-13,C024,South,Technology,Keyboard,7,763.71,5345.97
+S0057,2025-05-17,C016,South,Technology,Laptop,7,829.58,5807.06
+S0058,2025-04-13,C008,South,Furniture,Desk,5,780.95,3904.75
+S0059,2025-01-13,C003,East,Office Supplies,Pen Set,7,317.22,2220.54
+S0060,2025-06-29,C004,East,Office Supplies,Stapler,6,892.76,5356.56
+S0061,2025-04-02,C014,East,Office Supplies,Printer Paper,1,110.12,110.12
+S0062,2025-06-10,C019,South,Furniture,Bookshelf,2,370.85,741.7
+S0063,2025-05-11,C018,South,Technology,Mouse,1,497.76,497.76
+S0064,2025-07-06,C022,North,Furniture,Office Chair,6,595.01,3570.06
+S0065,2025-06-03,C023,East,Office Supplies,Printer Paper,7,315.26,2206.82
+S0066,2025-10-11,C013,South,Technology,Monitor,7,634.36,4440.52
+S0067,2025-11-12,C001,East,Office Supplies,Printer Paper,7,524.16,3669.12
+S0068,2025-05-27,C015,South,Technology,Mouse,6,446.02,2676.12
+S0069,2025-09-19,C010,East,Furniture,Bookshelf,3,628.64,1885.92
+S0070,2025-02-17,C005,North,Technology,Keyboard,4,767.78,3071.12
+S0071,2025-01-24,C021,South,Technology,Mouse,2,437.0,874.0
+S0072,2025-12-23,C021,North,Furniture,Desk,7,237.83,1664.81
+S0073,2025-02-24,C023,West,Furniture,Office Chair,3,765.47,2296.41
+S0074,2025-01-26,C015,East,Office Supplies,Pen Set,2,437.99,875.98
+S0075,2025-08-15,C024,West,Office Supplies,Stapler,8,853.17,6825.36
+S0076,2025-08-19,C017,West,Furniture,Office Chair,5,729.4,3647.0
+S0077,2025-11-17,C010,South,Technology,Keyboard,8,80.99,647.92
+S0078,2025-05-20,C008,West,Furniture,Desk,2,138.35,276.7
+S0079,2025-12-22,C011,West,Technology,Monitor,2,398.81,797.62
+S0080,2025-08-01,C025,North,Technology,Monitor,7,374.89,2624.23
+S0004,2025-04-23,C001,South,Furniture,Bookshelf,5,770.48,3852.4

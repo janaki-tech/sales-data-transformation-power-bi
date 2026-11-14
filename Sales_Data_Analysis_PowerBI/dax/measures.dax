@@ -1,0 +1,12 @@
+-- Create these measures after loading the cleaned table.
+-- If your table has a different name, replace 'Sales_Cleaned' accordingly.
+
+Total Sales = SUM(Sales_Cleaned[Sales])
+
+Total Orders = DISTINCTCOUNT(Sales_Cleaned[OrderID])
+
+Total Quantity = SUM(Sales_Cleaned[Quantity])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+
+Average Unit Price = AVERAGE(Sales_Cleaned[UnitPrice])
